@@ -3,3 +3,5 @@
 ## Day 1 at my startup:
 Today I joined the first class and made my first commit. I'm looking forward to getting to know everyone.
 
+## What I'm excited to build:
+I'm excited to build a new program/project! 
